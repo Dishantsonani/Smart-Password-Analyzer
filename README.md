@@ -25,7 +25,7 @@ Built with **Flask**, it offers a smooth UI with an animated strength meter and 
 
 ---
 
-## 🎬 How It Works
+## 🎬 How It Works on windows
 
 ### 1. Clone the Repository:
 ```bash
@@ -51,6 +51,66 @@ python app.py
 
 ### 5. Open in Browser:
 Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) and start typing your passwords!
+
+---
+Sure! Here’s how you can **run your Smart Password Analyzer project on Kali Linux** — I’ll add the Kali-specific instructions to your existing README style.
+
+---
+
+## 🐧 How to Run on Kali Linux
+
+If you want to run **Smart Password Analyzer** on **Kali Linux**, follow these steps:
+
+### 1. Open Terminal
+
+### 2. Clone the Repository
+
+```bash
+git clone https://github.com/Dishantsonani/Smart-Password-Analyzer.git
+cd Smart-Password-Analyzer
+```
+
+### 3. (Optional) Create & Activate Virtual Environment
+
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### 4. Install Dependencies
+
+```bash
+pip3 install -r requirements.txt
+```
+
+### 5. Run the Flask Application
+
+```bash
+python3 app.py
+```
+
+### 6. Open your web browser and visit:
+
+```
+http://127.0.0.1:5000
+```
+
+---
+
+**Notes:**
+
+* Kali Linux typically comes with both Python 2 and Python 3, so use `python3` and `pip3` explicitly to avoid version conflicts.
+* If `python3-venv` is not installed, install it with:
+
+  ```bash
+  sudo apt update
+  sudo apt install python3-venv
+  ```
+* You may need to install `pip3` if missing:
+
+  ```bash
+  sudo apt install python3-pip
+  ```
 
 ---
 

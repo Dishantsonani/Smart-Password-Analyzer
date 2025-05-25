@@ -54,11 +54,22 @@ Visit [http://127.0.0.1:5000](http://127.0.0.1:5000) and start typing your passw
 
 ---
 
-## 🖼️ Screenshot: User Interface Preview
+## 🖼️ Project Snapshots
 
-![Preview](./preview.png)
+### 🎯 How It Runs
 
-This screenshot shows the real-time strength meter with neon colors and smooth animations.
+![Run the App](./runtheapp.png)
+
+This snapshot shows the project *in action*! It demonstrates how the real-time strength meter works as the user types input. With vibrant neon effects and smooth animations, the app gives instant feedback and brings an engaging, futuristic user experience.
+
+---
+
+### 💻 User Interface
+
+![User Interface](./user-interface.png)
+
+This is the static webpage interface of the project. It features a clean, modern layout with glowing colors and soft transitions. The UI design focuses on clarity, responsiveness, and visual appeal — making it both attractive and easy to use.
+
 
 ---
 

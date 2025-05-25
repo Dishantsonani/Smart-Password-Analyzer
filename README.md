@@ -29,7 +29,7 @@ Built with **Flask**, it offers a smooth UI with an animated strength meter and 
 
 ### 1. Clone the Repository:
 ```bash
-git clone https://github.com/your-username/Smart-Password-Analyzer.git
+git clone https://github.com/Dishantsonani/Smart-Password-Analyzer.git
 cd Smart-Password-Analyzer
 ```
 
